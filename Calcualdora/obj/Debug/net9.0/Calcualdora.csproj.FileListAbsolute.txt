@@ -1,0 +1,14 @@
+c:\Users\didju\Desktop\Calcualdora\bin\Debug\net9.0\Calcualdora.exe
+C:\Users\didju\Desktop\Calcualdora\bin\Debug\net9.0\Calcualdora.deps.json
+C:\Users\didju\Desktop\Calcualdora\bin\Debug\net9.0\Calcualdora.runtimeconfig.json
+c:\Users\didju\Desktop\Calcualdora\bin\Debug\net9.0\Calcualdora.dll
+c:\Users\didju\Desktop\Calcualdora\bin\Debug\net9.0\Calcualdora.pdb
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.AssemblyInfoInputs.cache
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.AssemblyInfo.cs
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.csproj.CoreCompileInputs.cache
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.dll
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\refint\Calcualdora.dll
+c:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.pdb
+C:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\Calcualdora.genruntimeconfig.cache
+C:\Users\didju\Desktop\Calcualdora\obj\Debug\net9.0\ref\Calcualdora.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Calcualdora/1.0.0": {
+        "runtime": {
+          "Calcualdora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcualdora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
