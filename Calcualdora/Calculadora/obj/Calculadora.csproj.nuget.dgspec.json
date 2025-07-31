@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calcualdora.csproj": {}
+    "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calcualdora.csproj": {
+    "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calcualdora.csproj",
-        "projectName": "Calcualdora",
-        "projectPath": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calcualdora.csproj",
+        "projectUniqueName": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\SALON 206\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\obj\\",
+        "outputPath": "C:\\Users\\SALON 206\\Desktop\\Calcualdora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
