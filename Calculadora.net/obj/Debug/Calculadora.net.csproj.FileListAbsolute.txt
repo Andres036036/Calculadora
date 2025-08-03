@@ -1,0 +1,8 @@
+C:\Users\didju\Desktop\Calculadora.net\obj\Debug\Calculadora.net.csproj.AssemblyReference.cache
+C:\Users\didju\Desktop\Calculadora.net\obj\Debug\Calculadora.net.csproj.CoreCompileInputs.cache
+C:\Users\didju\Desktop\Calculadora.net\bin\Debug\Calculadora.net.exe.config
+C:\Users\didju\Desktop\Calculadora.net\bin\Debug\Calculadora.net.exe
+C:\Users\didju\Desktop\Calculadora.net\bin\Debug\Calculadora.net.pdb
+C:\Users\didju\Desktop\Calculadora.net\obj\Debug\Calculadora.net.exe
+C:\Users\didju\Desktop\Calculadora.net\obj\Debug\Calculadora.net.pdb
+C:\Users\didju\Desktop\Calculadora.net\obj\Debug\Calculadora.net.exe.config
