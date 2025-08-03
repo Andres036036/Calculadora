@@ -1,7 +1,0 @@
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\bin\Debug\Calculadora.net.exe.config
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\bin\Debug\Calculadora.net.exe
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\bin\Debug\Calculadora.net.pdb
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\obj\Debug\Calculadora.net.csproj.AssemblyReference.cache
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\obj\Debug\Calculadora.net.csproj.CoreCompileInputs.cache
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\obj\Debug\Calculadora.net.exe
-C:\Users\SALON 206\Desktop\Calcualdora\Calculadora.net\obj\Debug\Calculadora.net.pdb
